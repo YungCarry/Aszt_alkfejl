@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.ComponentModel;
 
 namespace ConsoleApp1 // Note: actual namespace depends on the project name.
 {
@@ -46,7 +47,26 @@ namespace ConsoleApp1 // Note: actual namespace depends on the project name.
 
 
             }
+            //2. feladat:
             Console.WriteLine("Az összes könyv a listaban: "+l.Count);
+            
+
+            //3. feladat:
+            var legtobbHonor = l.Max(b =>  b.honorarium);
+            var legtobbHonorIro = l.Where(b => b.honorarium == legtobbHonor).Select(b => $"{b.veznev} {b.kernev}").FirstOrDefault();
+            Console.WriteLine("A legtöbbet kapó költő: " + legtobbHonorIro);
+
+            //4.feladat:
+            bool vaneimforatika = l.Any(b => b.tema.Equals("informatika"));
+            if (vaneimforatika == true)
+            {
+                Console.WriteLine("Van informatika témájú könyv.");
+            }
+            else
+            {
+                Console.WriteLine("Nincs informatika témájú könyv.");
+            }
+
         }
     }
 }

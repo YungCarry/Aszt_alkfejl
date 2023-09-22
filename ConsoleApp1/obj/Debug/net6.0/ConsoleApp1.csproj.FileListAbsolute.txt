@@ -12,3 +12,17 @@ J:\Aszt_alk\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
 J:\Aszt_alk\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 J:\Aszt_alk\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 J:\Aszt_alk\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\c9kerdom\Source\Repos\Aszt_alkfejl\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

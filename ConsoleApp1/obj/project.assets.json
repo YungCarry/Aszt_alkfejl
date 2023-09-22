@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\Aszt_alk\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\c9kerdom\\Source\\Repos\\Aszt_alkfejl\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "J:\\Aszt_alk\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\c9kerdom\\Source\\Repos\\Aszt_alkfejl\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\c9kerdom\\.nuget\\packages\\",
-      "outputPath": "J:\\Aszt_alk\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\c9kerdom\\Source\\Repos\\Aszt_alkfejl\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
