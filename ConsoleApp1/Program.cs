@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.ComponentModel;
+using static System.Reflection.Metadata.BlobBuilder;
 
 namespace ConsoleApp1 // Note: actual namespace depends on the project name.
 {
@@ -66,6 +67,17 @@ namespace ConsoleApp1 // Note: actual namespace depends on the project name.
             {
                 Console.WriteLine("Nincs informatika témájú könyv.");
             }
+
+            // 5. feladat:
+            int konyvek2010 = l.Count(b => Convert.ToInt32(b.kiadasev) == 2010);
+            Console.WriteLine("A 2010-ben kiadott könyvek száma: " + konyvek2010);
+
+            // 6.feladat:
+            var kingKonyvek = l.Where(b => b.veznev == "King" && b.kernev == "Stephen").Select(b => b.konyvcim);
+            File.WriteAllLines("king.txt", kingKonyvek);
+
+            // 7.feladat:
+
 
         }
     }
